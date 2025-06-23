@@ -1,5 +1,0 @@
-/tmp/smartian/build/EVMAnalysis
-/tmp/smartian/build/EVMAnalysis.deps.json
-/tmp/smartian/build/EVMAnalysis.runtimeconfig.json
-/tmp/smartian/build/EVMAnalysis.dll
-/tmp/smartian/build/EVMAnalysis.pdb
